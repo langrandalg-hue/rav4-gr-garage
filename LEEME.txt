@@ -1,7 +1,3 @@
-RAV4 GR GARAGE v14 - EDICION ORLANDO
-
-Descomprime todo el ZIP y abre index.html en Chrome.
-La aplicacion funciona sin descargar los manuales.
-Para consultar manuales sin conexion, crea una carpeta llamada manuales junto a index.html y copia alli los PDF con sus nombres originales.
-Los manuales no estan incluidos en esta descarga ligera.
-No borres los datos del navegador si guardas documentos en la app.
+RAV4 GR Garage V15 - Edición Orlando 2025.
+Sube el contenido descomprimido del ZIP a la raíz del repositorio GitHub (no subas el ZIP).
+Manuales: pulsa SELECCIONAR PDF y elige tus archivos desde Archivos del iPhone. No se suben a Internet. Deben volver a seleccionarse al recargar la página.

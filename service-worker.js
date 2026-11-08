@@ -1,4 +1,4 @@
-const CACHE_NAME='rav4-gr-garage-v11-emblem';
+const CACHE_NAME='rav4-gr-garage-v15-orlando';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./Guia_Propietario_Toyota_RAV4_GR_Sport_2025.pdf','./icons/icon-180.png','./icons/icon-192.png','./icons/icon-512.png','./icons/gr-sport-emblem.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE_NAME).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE_NAME).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
