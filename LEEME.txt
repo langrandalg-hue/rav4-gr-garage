@@ -1,3 +1,1 @@
-RAV4 GR Garage V15 - Edición Orlando 2025.
-Sube el contenido descomprimido del ZIP a la raíz del repositorio GitHub (no subas el ZIP).
-Manuales: pulsa SELECCIONAR PDF y elige tus archivos desde Archivos del iPhone. No se suben a Internet. Deben volver a seleccionarse al recargar la página.
+V18.1: Biblioteca Toyota con tres iconos proporcionados por el usuario. El propietario se selecciona desde Archivos la primera vez en cada sesión; después se abre tocando el mismo icono. Se mantienen las demás funciones de V18.
