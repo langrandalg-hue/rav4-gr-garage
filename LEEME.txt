@@ -1,0 +1,7 @@
+RAV4 GR GARAGE v14 - EDICION ORLANDO
+
+Descomprime todo el ZIP y abre index.html en Chrome.
+La aplicacion funciona sin descargar los manuales.
+Para consultar manuales sin conexion, crea una carpeta llamada manuales junto a index.html y copia alli los PDF con sus nombres originales.
+Los manuales no estan incluidos en esta descarga ligera.
+No borres los datos del navegador si guardas documentos en la app.
